@@ -1,3 +1,5 @@
+my:
+  name: demo
 server:
   port: 8081
   servlet:
