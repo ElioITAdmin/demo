@@ -14,6 +14,6 @@ public class TestController {
 
     @RequestMapping(value="/", method=RequestMethod.GET)
     public ResponseEntity hello() {
-        return ResponseEntity.ok("베포 테스트");
+        return ResponseEntity.ok("베포");
     }
 }
